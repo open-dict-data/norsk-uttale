@@ -1,6 +1,6 @@
 # Norsk uttale - liste over alle ord
 
-**Innhold**: [A](#A) - [B](#B) - [C](#C) - [D](#D) - ... - [Å](#Å)
+**Innhold**: [A](#A) - [B](#B) - [C](#C) - [D](#D) - ... - [Æ](#Æ) - [Å](#Å)
 
 ## A
 
@@ -39,6 +39,25 @@
 * [abstinenssymptomer](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/abstinenssymptomer.mp3)
 * [abstraksjon](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/abstraksjon.mp3)
 * [abstrakt](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/abstrakt.mp3)
+* [absurd](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/absurd.mp3)
+* [addere](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/addere.mp3)
+* [adekvat](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/adekvat.mp3)
+* [adjektiv](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/adjektiv.mp3)
+* [adkomst](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/adkomst.mp3)
+* [adlyde](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/adlyde.mp3)
+* [administrativ](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/administrativ.mp3)
+* [administrere](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/administrere.mp3)
+* [adoptere](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/adoptere.mp3)
+* [adressere](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/adressere.mp3)
+* [advare](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/advare.mp3)
+* [adverb](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/adverb.mp3)
+* [afghansk](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/afghansk.mp3)
+* [aftens](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/aftens.mp3)
+* [agere](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/agere.mp3)
+* [aggressiv](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/aggressiv.mp3)
+* [agitere](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/agitere.mp3)
+* [akademisk](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/akademisk.mp3)
+* [akebrett](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/akebrett.mp3)
 * [angivelig](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/angivelig.mp3)
 * [angre](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/angre.mp3)
 * [angripe](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/angripe.mp3)
@@ -807,6 +826,13 @@
 * [dåne](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/dåne.mp3)
 * [dåre](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/dåre.mp3)
 * [dårlig](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/dårlig.mp3)
+
+## Æ
+
+* [ære](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/ære.mp3)
+* [ærekrenke](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/ærekrenke.mp3)
+* [ærlig](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/ærlig.mp3)
+* [ærverdig](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/ærverdig.mp3)
 
 ## Å
 
