@@ -5,7 +5,7 @@
 ## A
 
 * [a](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/a.mp3)
-* [à jour](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/à jour.mp3)
+* [à jour](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/%C3%A0%20jour.mp3)
 * [a.m.](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/a.m..mp3)
 * [abbed](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/abbed.mp3)
 * [abbedi](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/abbedi.mp3)
@@ -30,8 +30,8 @@
 * [abortpille](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/abortpille.mp3)
 * [abrakadabra](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/abrakadabra.mp3)
 * [absolutt](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/absolutt.mp3)
-* [absolutt ikke](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/absolutt ikke.mp3)
-* [absolutt nødvendig](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/absolutt nødvendig.mp3)
+* [absolutt ikke](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/absolutt%20ikke.mp3)
+* [absolutt nødvendig](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/absolutt%20n%C3%B8dvendig.mp3)
 * [absorbere](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/absorbere.mp3)
 * [absorberende](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/absorberende.mp3)
 * [absorpsjon](https://raw.githubusercontent.com/open-dict-data/norsk-uttale/master/mp3/absorpsjon.mp3)
